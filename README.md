@@ -10,7 +10,7 @@ Bash script to convert a image with a audio to video using FFMPEG
 ### Instalation:
 Copy or move imgau2vid.sh to /usr/bin or another dir in your PATH. If you can launche the app GUI directly form your desktop menu copy one of the .desktop files to /usr/share/applications
 
-A AUR package for Arch Linux and derivates is [avaliable here]()
+A AUR package for Arch Linux and derivates is [avaliable here](https://aur.archlinux.org/packages/imgau2vid/)
 
 ### How to use the cli (terminal):
 
